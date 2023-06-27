@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @majarall
+- 👋 Hi, I’m Mustafa Jarallah
 - 👀 I’m interested in Physics and Computer Science 
 - 🌱 I’m currently working with Big data systems and advanced Timeseries Classification techniques. 
 
