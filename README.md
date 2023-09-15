@@ -10,13 +10,13 @@
 
 ## Projects
 
-### [Project 1: Semantic Search Engine]
+### Semantic Search Engine
 - A powerful search system employing state-of-the-art language models for semantic search capabilities.
 
-### [Project 2: Big Data Analytics with Spark and Kafka]
+### Big Data Analytics with Spark and Kafka
 - Designing and implementing scalable big data systems using Apache Spark and Kafka streams.
 
-### [Project 3: Timeseries Classification Framework]
+### Project 3: Timeseries Classification Framework
 - Developing and refining cutting-edge techniques for efficient timeseries classification.
 
 ## Get in Touch
