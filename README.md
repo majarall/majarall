@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile! 👋
-
 ## About Me - Mustafa Jarallah
 - 👀 I have a passion for both Physics and Computer Science, merging these interests to explore innovative solutions.
 - 🌱 Currently immersed in exciting projects at the intersection of AI and data processing.
