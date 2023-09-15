@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Mustafa Jarallah
 - 👀 I’m interested in Physics and Computer Science 
-- 🌱 I’m currently working with Big data systems and advanced Timeseries Classification techniques. 
+- 🌱 I’m currently working with
+      - Semantich search systems, using large language models.          
+      - Big data systems with Spark and Kafka streams. 
+      - Advanced Timeseries Classification techniques. 
 
 
 <!---
