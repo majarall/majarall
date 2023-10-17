@@ -5,8 +5,8 @@
 ## Interests and Expertise
 - 🚀 My main focus is on:
   - Semantic search systems utilizing the power of large language models.
-  - Harnessing Spark and Kafka streams for robust big data processing.
-  - Pioneering timeseries classification techniques.
+  - Harnessing Spark and Kafka streams for big data processing.
+  - Timeseries classification techniques.
 
 ## Projects
 
