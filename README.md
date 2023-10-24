@@ -16,7 +16,7 @@
 ### Big Data Analytics with Spark and Kafka
 - Designing and implementing scalable big data systems using Apache Spark and Kafka streams.
 
-### Project 3: Timeseries Classification Framework
+### Timeseries Classification Framework
 - Developing and refining cutting-edge techniques for efficient timeseries classification.
 
 ## Get in Touch
