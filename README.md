@@ -4,9 +4,10 @@
 
 ## Interests and Expertise
 - 🚀 My main focus is on:
+  - Computer vision in robtics application.
   - Semantic search systems utilizing the power of large language models.
   - Harnessing Spark and Kafka streams for big data processing.
-  - Timeseries classification techniques.
+    
 
 ## Projects
 
