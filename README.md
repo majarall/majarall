@@ -7,7 +7,7 @@
   - MLOps and data pipelines for machine learning lifecycle management.
   - Data streaming applications using Apache Kafka.
   - Physics simulation and computational modeling.
-  - 
+
 ## Tech Stack
 
 ### Machine Learning
@@ -42,8 +42,10 @@
 - 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/mustafa-jarallah/).
 
 
-
+> "I have no special talent. I am only passionately curious."  
+> — Albert Einstein
 <!---
+
 majarall/majarall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
