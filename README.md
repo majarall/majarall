@@ -1,12 +1,12 @@
-## About Me - Mustafa Jarallah
+## About Me - Moose
 - 👀 I have a passion for both Physics and Computer Science, merging these interests to explore innovative solutions.
 - 🌱 Currently immersed in exciting projects at the intersection of AI and data processing.
 
 ## Interests and Expertise
 - 🚀 My main focus is on:
-  - Computer vision in robotics application.
-  - Semantic search systems utilizing the power of large language models.
-  - Harnessing Spark and Kafka streams for big data processing.
+  - MLOps and data pipelines for machine learning lifecycle management.
+  - Data streaming applications using Apache Kafka.
+  - Physics simulation and computational modeling.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,19 +14,21 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Arrow](https://img.shields.io/badge/Apache%20Arrow-00BFFF?style=for-the-badge&logo=apachearrow&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cython](https://img.shields.io/badge/Cython-3776AB?style=for-the-badge&logo=cython&logoColor=white)
 
 ## Projects
 
-### Semantic Search Engine
-- A powerful search system employing state-of-the-art language models for semantic search capabilities.
+### MLOps Data Pipeline
+- Implementing robust MLOps pipelines to streamline the machine learning lifecycle, from data ingestion to model deployment and monitoring.
 
-### Big Data Analytics with Spark and Kafka
-- Designing and implementing scalable big data systems using Apache Spark and Kafka streams.
+### Data Streaming with Apache Kafka
+- Designing and deploying scalable data streaming applications using Apache Kafka for real-time data processing.
 
-### Timeseries Classification Framework
-- Developing and refining cutting-edge techniques for efficient timeseries classification.
-
+### Physics Simulation Framework
+- Developing advanced computational models and simulations to solve complex physics problems.
 
 ## Get in Touch
 - 📫 I'm open to collaboration and discussions in the realms of Physics, Computer Science, or any intriguing interdisciplinary projects.
