@@ -5,8 +5,9 @@
 ## Interests and Expertise
 - 🚀 My main focus is on:
   - MLOps and data pipelines for machine learning lifecycle management.
-  - Data streaming applications using Apache Kafka.
   - Physics simulation and computational modeling.
+  - Data streaming applications using Apache Kafka.
+  
 
 ## Tech Stack
 
