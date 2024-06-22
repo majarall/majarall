@@ -7,7 +7,14 @@
   - Computer vision in robotics application.
   - Semantic search systems utilizing the power of large language models.
   - Harnessing Spark and Kafka streams for big data processing.
-    
+
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Projects
 
@@ -19,6 +26,7 @@
 
 ### Timeseries Classification Framework
 - Developing and refining cutting-edge techniques for efficient timeseries classification.
+
 
 ## Get in Touch
 - 📫 I'm open to collaboration and discussions in the realms of Physics, Computer Science, or any intriguing interdisciplinary projects.
