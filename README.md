@@ -1,4 +1,4 @@
-## About Me - Moose
+## About Me - <span style="font-family: 'Comic Sans MS', cursive;">Mustafa Jarallah</span>
 - 👀 I have a passion for both Physics and Computer Science, merging these interests to explore innovative solutions.
 - 🌱 Currently immersed in exciting projects at the intersection of AI and data processing.
 
