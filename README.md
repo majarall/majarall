@@ -1,4 +1,4 @@
-## About Me - <span style="font-family: 'Comic Sans MS', cursive;">Mustafa Jarallah</span>
+
 > I have a passion for both Physics and Computer Science, merging these interests to explore innovative solutions.
 > Currently immersed in exciting projects within the field of Scientific Machine Learning mostly applied to Nuclear Physics.
 
